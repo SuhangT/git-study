@@ -7,3 +7,10 @@ def run(a, b):
     return a + b
 
 print(run(2, 8))
+class Cat:
+
+    def __init__(self) -> None:
+        pass
+    
+    def run(self):
+        pass
